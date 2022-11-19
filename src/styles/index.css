@@ -1,12 +1,35 @@
+h1 {
+  font-size: 70px;
+  font-family: Arial;
+}
 
+.jumbotron {
+  padding-bottom: 90px;
+  padding-left: 10px;
+}
+
+.cardOne-footer {
+  padding-bottom: 40px;
+}
+
+.cardTwo-footer {
+  padding-bottom: 40px;
+}
+
+.footer-body{
+    color: rgba(160, 158, 158, 0.61);
+    text-align: center;
+}
+img {
+    width: 300px;
+    height: 350px;
+ }
 /* 
-
-    You can write your own styles here...
-    
-    
-    ...Or you can use the import command to include 
-    other sylesheets into your bunde as well, e.j:
-    
-    import 'relative/path/to/stylesheet.scss';
-
-*/
+        You can write your own styles here...
+        
+        
+        ...Or you can use the import command to include 
+        other sylesheets into your bunde as well, e.j:
+        
+        import 'relative/path/to/stylesheet.scss';
+    */
